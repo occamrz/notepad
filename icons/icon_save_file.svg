@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="11.902015mm"
+   height="11.902015mm"
+   viewBox="0 0 42.172493 42.172493"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="icon_floppy.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.7994037"
+     inkscape:cx="45.077482"
+     inkscape:cy="35.8855"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1454"
+     inkscape:window-height="1024"
+     inkscape:window-x="13"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.056611,-511.27595)">
+    <path
+       id="rect30"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.04089;stroke-linecap:round;paint-order:stroke fill markers"
+       d="m 13.659813,533.78901 c -0.155854,0 -0.280114,0.12628 -0.280114,0.28213 v 0.94387 c -1.114142,0.095 -1.983126,1.02219 -1.983126,2.16176 v 8.68759 c 0,1.20313 0.968768,2.1719 2.171899,2.1719 h 15.296666 c 1.203131,0 2.1719,-0.96877 2.1719,-2.1719 v -8.68759 c 0,-1.20314 -0.968769,-2.1719 -2.1719,-2.1719 H 21.59435 v -0.93373 c 0,-0.15585 -0.126288,-0.28213 -0.282144,-0.28213 z m 6.427854,-18.37111 v 10.78329 l -4.085288,-7.07718 -2.61531,1.50893 6.700598,11.60658 v 0.0909 h 0.05194 l 0.01299,0.0208 0.03636,-0.0208 h 2.820484 l 0.03636,0.0208 0.01299,-0.0208 h 0.04934 v -0.0883 l 6.703197,-11.60917 -2.615312,-1.51153 -4.087885,7.07978 v -10.78329 z m 23.141436,16.94428 A 21.086245,21.086245 0 0 1 22.142854,553.44845 21.086245,21.086245 0 0 1 1.056611,532.36218 21.086245,21.086245 0 0 1 22.142854,511.27595 21.086245,21.086245 0 0 1 43.229103,532.36218 Z" />
+  </g>
+</svg>
